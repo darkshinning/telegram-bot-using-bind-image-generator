@@ -7,3 +7,4 @@ Special thanks to this [repository](https://github.com/nociza/Bimg).
 - Cloudflare Workers
 - Supabase
 - Some code of [Bimg](https://github.com/nociza/Bimg)
+- Some code of [Hitokoto_bot](https://github.com/my-telegram-bots/hitokoto_bot)
