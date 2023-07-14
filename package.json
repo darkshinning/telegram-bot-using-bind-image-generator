@@ -1,0 +1,8 @@
+{
+  "name": "telegrambot",
+  "version": "1.0.0",
+  "dependencies": {
+    "@supabase/supabase-js": "^2.26.0",
+    "querystring-browser": "^1.0.4"
+  }
+}

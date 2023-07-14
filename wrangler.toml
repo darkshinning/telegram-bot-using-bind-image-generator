@@ -1,0 +1,7 @@
+name = "telegrambot"
+main = "main/worker.js"
+
+node_compat = true
+workers_dev = true
+
+compatibility_date = "2023-07-14"
